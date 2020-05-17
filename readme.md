@@ -7,11 +7,6 @@
 </table>
 (coming soon)
 
-# Cite us
-If you use this code or part of it, please cite us!  
-*anonymous, "Cross Modal Compression: towards human-comprehensiblesemantic compression"* [arxiv](coming soon)
-
-
 # Prerequisites
  - linux
  - python 3.5 (not test on other versions)
@@ -49,7 +44,7 @@ python ./ImageText/end_to_end_test.py --cfg cfg/coco_eval.yml --data_dir CUB_PAT
 (coming soon).
 
 # Acknowledgement
-Thanks to the valuable discussion with Junlong Gao. Besides, thanks to the open source of [COCO API](https://github.com/cocodataset/cocoapi), [AttnGAN](https://github.com/taoxugit/AttnGAN), [a-PyTorch-Tutorial-to-Image-Captioning](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning).
+Thanks to the open source of [COCO API](https://github.com/cocodataset/cocoapi), [AttnGAN](https://github.com/taoxugit/AttnGAN), [a-PyTorch-Tutorial-to-Image-Captioning](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning).
 
  **Note that this work is only for research. Please do not use it for illegal purposes.**
 
